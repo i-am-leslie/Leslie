@@ -1,4 +1,4 @@
-# Hi there, I am leslie welcome to my playground 
+# Hi there, I am leslie welcome to my playground 👋
 
 - <I>Currently:</i> B.S Software Engineering Student at Carleton University in Ottawa.
 
