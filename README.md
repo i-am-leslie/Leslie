@@ -9,11 +9,14 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 - <I>Currently:</I> B.S Software Engineering Student at Carleton University in Ottawa.
-
-# 💻  i'm currently working on 
--<I>Full Stack Applications</I>
--<I>Software Engineering</I>
--<i>Client-Server Architecture</I>
+  
+# 💻 I'm currently working on 
+- *Full Stack Applications*
+- *Software Engineering*
+- *Client-Server Architecture*
 
