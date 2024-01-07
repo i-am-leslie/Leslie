@@ -18,7 +18,7 @@
 
 - <I>Currently:</I> B.S Software Engineering Student at Carleton University in Ottawa.
 
-_
+
   
 # 💻 I'm currently working on 
 - *Software Engineering*
