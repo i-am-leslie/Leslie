@@ -26,6 +26,6 @@
 - *Client-Server Architecture*
 
 
-#About Leslie 🔆:-
+#About Leslie 🔆:
 - I am a 4th year engineering Student living in Ottawa,ON. Outside Software Engineering, I love to Play games, enjoy music and love to meet new people
 
