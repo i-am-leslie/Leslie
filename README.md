@@ -12,4 +12,9 @@
 
 #📖  Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [i-am-leslie pushed to main in i-am-leslie/i-am-leslie](https://github.com/i-am-leslie/i-am-leslie/compare/f10025a94a...1e48f82447)
+- [i-am-leslie pushed to main in i-am-leslie/i-am-leslie](https://github.com/i-am-leslie/i-am-leslie/compare/87855b536e...f10025a94a)
+- [i-am-leslie made i-am-leslie/ElevatorScheduler-master public](https://github.com/i-am-leslie/ElevatorScheduler-master)
+- [i-am-leslie pushed to main in i-am-leslie/i-am-leslie](https://github.com/i-am-leslie/i-am-leslie/compare/05b5ce6d8e...87855b536e)
+- [i-am-leslie pushed to main in i-am-leslie/i-am-leslie](https://github.com/i-am-leslie/i-am-leslie/compare/4f0fd013d2...05b5ce6d8e)
 <!-- BLOG-POST-LIST:END -->
