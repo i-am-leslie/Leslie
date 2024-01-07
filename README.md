@@ -12,4 +12,8 @@
 
 - <I>Currently:</i> B.S Software Engineering Student at Carleton University in Ottawa.
 
+# 💻  i'm currently working on 
+<i>Full Stack Applications</i>
+<i>Software Engineering</i>
+
 
