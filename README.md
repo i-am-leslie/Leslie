@@ -10,10 +10,10 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-- <I>Currently:</i> B.S Software Engineering Student at Carleton University in Ottawa.
+- <I>Currently:</I> B.S Software Engineering Student at Carleton University in Ottawa.
 
 # 💻  i'm currently working on 
-<i>Full Stack Applications</i>
-<i>Software Engineering</i>
+<I>Full Stack Applications</I>
+<I>Software Engineering</I>
 
 
