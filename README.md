@@ -22,12 +22,13 @@
   
 # 💻 I'm currently working on 
 - *Software Engineering*
+- *Distributed Systems*
 - *Full Stack Applications*
 - *Client-Server Architecture*
 
 
 # About Leslie 🔆:
-- I am a 4th year engineering Student living in Ottawa,ON. Outside Software Engineering, I love to Play games, enjoy music and love to meet new people
+- I am an Software Engineering graduate living in Ottawa,ON. Outside Software Engineering, I love to Play games, enjoy music and love to meet new people
 
 # How to reach me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:https://mail.google.com/mail/u/0/#inbox)
